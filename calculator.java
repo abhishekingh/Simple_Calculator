@@ -1,6 +1,4 @@
-// 19) write a java program that work as simple calculator ?
 package awt_gui;
-
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
