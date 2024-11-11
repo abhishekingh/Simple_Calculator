@@ -1,9 +1,9 @@
 # Simple_Calculator
 Name: Abhishek Singh
 Company: CODETECH IT SOLUTIONS
-ID: 
+ID: CT6WDS2274
 Duration: November to December 2024
-Mentor:
+Mentor: Nella Santhos kumar
 
 Overview of the project-:
 
